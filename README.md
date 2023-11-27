@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SizzlingSheep88
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Simple game
+- 👀 I’m interested in C++
+- 🌱 I’m currently learning nothin
+- 💞️ I’m looking to be a front end dev
 - 📫 How to reach me 
 
 <!---
